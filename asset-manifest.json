@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aiswarya-reactapp/static/css/main.35ce76e0.css",
+    "main.js": "/aiswarya-reactapp/static/js/main.c78632c0.js",
+    "static/js/787.b0e29ad6.chunk.js": "/aiswarya-reactapp/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/aiswarya-reactapp/index.html",
+    "main.35ce76e0.css.map": "/aiswarya-reactapp/static/css/main.35ce76e0.css.map",
+    "main.c78632c0.js.map": "/aiswarya-reactapp/static/js/main.c78632c0.js.map",
+    "787.b0e29ad6.chunk.js.map": "/aiswarya-reactapp/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ce76e0.css",
+    "static/js/main.c78632c0.js"
+  ]
+}
