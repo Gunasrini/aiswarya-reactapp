@@ -1,0 +1,15 @@
+.about-page {
+    background: #f8f8f8;
+    padding: 30px;
+    width: 1000px;
+    margin: auto;
+}
+
+.about-page h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about-page p {
+    text-align: justify;
+}
